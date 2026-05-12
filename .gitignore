@@ -1,0 +1,8 @@
+.venv/
+.idea/
+.codex_deps/
+checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+Thumbs.db
